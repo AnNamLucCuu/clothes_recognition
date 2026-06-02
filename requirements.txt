@@ -1,0 +1,18 @@
+# data manipulation
+pandas
+numpy
+
+# analysis and visualization
+matplotlib
+seaborn
+
+# train test split and visualization
+scikit-learn
+
+# training and building network
+torch
+torchvision
+
+# notebook interface
+notebook
+ipykernel
